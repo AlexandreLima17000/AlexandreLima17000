@@ -1,1 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=gagalin&pause=1000&color=000000&width=435&lines=Carlos+Alexandre+de+Lima)](https://git.io/typing-svg)
+# Olá, eu sou o Carlos Alexandre 👋
+
+🚀 **Desenvolvedor de Sistemas em Formação**  
+📍 Brasília, DF - Brasil
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** Java (POO, JavaFX)
+- **Banco de Dados:** MySQL, SQL
+- **Ferramentas & Versionamento:** Git, GitHub, IntelliJ IDEA
+- **Gerenciamento:** Jira
+
+---
+
+### 📌 Sobre mim
+- 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** no Senac DF.
+- 💡 Foco em aprender boas práticas de programação, orientação a objetos e arquitetura de software.
+- 📬 Contato: c4rlosalexandre@gmail.com
